@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Palma Daawin
+title: About me
 subtitle: Rising actuary and data scientist
 ---
 
@@ -13,8 +13,9 @@ subtitle: Rising actuary and data scientist
 
 # PROFESSIONAL CERTIFICATION
  
-I am an  affiliate member of Association of Chartered Certified Accountants, ACCA (United Kingdom),           	           
-and currently a candidate of the Society of Actuaries /Casualty Actuarial Society.
+I am an  affiliate member of Association of Chartered Certified Accountants, 
+ACCA (United Kingdom),and currently a candidate of the Society of Actuaries/Casualty Actuarial Society.
+
 
 # CAREER HISTORY
 
