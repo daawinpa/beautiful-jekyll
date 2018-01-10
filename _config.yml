@@ -27,7 +27,6 @@ in bridgeing the gap between various industries and data science.
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Learn R Shiny : "https://www.rstudio.com/products/shinyapps/"
     - Shiny gallery : "https://www.showmeshiny.com/"
