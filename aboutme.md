@@ -2,9 +2,9 @@
 layout: page
 title: About me
 subtitle: Lets get personal.I will tell you about myself!
-share-img: "/img/covers/Snapshot_20171228_3.png"
+share-img: "/img/Snapshot_20171228_3.jpg"
 bigimg:
- - "/img/covers/Snapshot_20171228_3.png" 
+ - "/img/Snapshot_20171228_3.jpg" 
 ---
 
 
