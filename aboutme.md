@@ -4,7 +4,7 @@ title: About me
 subtitle: Lets get personal.I will tell you about myself!
 share-img: "/img/covers/Snapshot_20171228_3.png"
 bigimg:
- - "/img/covers/Snapshot_20171228_3.jpg" 
+ - "/img/covers/Snapshot_20171228_3.png" 
 ---
 
 
