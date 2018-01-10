@@ -28,8 +28,14 @@ I did an internship with  American Modern Insurance Group (Munich Re) where I wo
 # KEY SOFTWARES
 
 I have multiple experience and expert knowledge in 
-* MS Excel VBA  * SQL * R Studio 
-* R Shiny  * Plotly   * SAS 
-* Python(Jupyter,Rodeo,Spider) *Latex  * EMBLEM
+* MS Excel VBA  
+* SQL 
+* R Studio 
+* R Shiny  
+* Plotly   
+* SAS 
+* Python(Jupyter,Rodeo,Spider)
+* Latex 
+* EMBLEM
 * JMP  * SPSS  * Tableau  * MS Power BI  * Spotfire
 * Micro-strategy  * Google Analytics   * Piktochart 
