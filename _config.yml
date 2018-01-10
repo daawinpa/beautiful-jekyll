@@ -28,7 +28,9 @@ navbar-links:
     - Learn R Shiny: "https://www.rstudio.com/products/shinyapps/"
     - Shiny gallery: "https://www.showmeshiny.com/"
     - GitHub Pages: "https:/www.github.com/daawinpa"
-
+    - Learn python: "https://www.tutorialspoint.com/python3/"
+    - Learn web essentials: "https://www.w3schools.com/"
+     
   Resume: "PalmaDaawinResume.pdf"
   Projects: "projects"
   
