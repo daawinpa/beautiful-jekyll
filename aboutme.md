@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Rising actuary and data scientist
+subtitle: Lets get personal.I will tell you about myself!
 ---
 
 
