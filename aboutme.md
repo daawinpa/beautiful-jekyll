@@ -5,7 +5,7 @@ subtitle: Lets get personal.I will tell you about myself!
 share-img: "/img/covers/IMG_20170321_195949.jpg"
 bigimg:
  - "/img/covers/IMG_20170321_195949.jpg"
- image:
+image:
  - "/Software/img/RstudioImage.png"
  - "/Software/img/SAS.png"
  - "/Software/img/jmp.png"
