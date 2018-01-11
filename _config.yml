@@ -23,6 +23,7 @@ description: Rising actuary and data scientist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Learn R Shiny: "https://www.rstudio.com/products/shinyapps/"
@@ -31,10 +32,9 @@ navbar-links:
     - Learn python: "https://www.tutorialspoint.com/python3/"
     - Learn web essentials: "https://www.w3schools.com/"
      
-  Resume: "PalmaDaawinResume.pdf"
-  Projects: "projects"
+  #Resume: "PalmaDaawinResume.pdf"
   
-  Author's home: "http://daawinpa.github.io"
+  #Author's home: "http://daawinpa.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
