@@ -5,6 +5,23 @@ subtitle: Lets get personal.I will tell you about myself!
 share-img: "/img/covers/IMG_20170321_195949.jpg"
 bigimg:
  - "/img/covers/IMG_20170321_195949.jpg"
+ image:
+ - "/Software/img/RstudioImage.png"
+ - "/Software/img/SAS.png"
+ - "/Software/img/jmp.png"
+ - "/Software/img/python.png"
+ - "/Software/img/shinylogo.png"
+ - "/Software/img/Plotly-logo.png"
+ - "/Software/img/Excel-VBA.png"
+ - "/Software/img/google-analytics.png"
+ - "/Software/img/tableau.png"
+ - "/Software/img/spyder.png"
+ - "/Software/img/jupyter.png"
+ - "/Software/img/microstrategy.png"
+ - "/Software/img/latex.png"
+ - "/Software/img/emblem.png"
+ - "/Software/img/piktochart.png"
+ - "/Software/img/PowerBI.png"
 ---
 
 
