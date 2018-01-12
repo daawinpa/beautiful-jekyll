@@ -23,12 +23,12 @@ description: Rising actuary and data scientist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  Projects: #"projects"
+    - My Projects: "https:/www.github.com/daawinpa"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Learn R Shiny: "https://www.rstudio.com/products/shinyapps/"
     - Shiny gallery: "https://www.showmeshiny.com/"
-    - GitHub Pages: "https:/www.github.com/daawinpa"
     - Learn python: "https://www.tutorialspoint.com/python3/"
     - Learn web essentials: "https://www.w3schools.com/"
      
