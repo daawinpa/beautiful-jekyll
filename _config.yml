@@ -23,7 +23,7 @@ description: Rising actuary and data scientist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: #"projects"
+  Projects:
     - My Projects: "https:/www.github.com/daawinpa"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -31,7 +31,7 @@ navbar-links:
     - Shiny gallery: "https://www.showmeshiny.com/"
     - Learn python: "https://www.tutorialspoint.com/python3/"
     - Learn web essentials: "https://www.w3schools.com/"
-     
+  #"projects"
   #Resume: "PalmaDaawinResume.pdf"
   
   #Author's home: "http://daawinpa.github.io"
