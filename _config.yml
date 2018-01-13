@@ -24,7 +24,7 @@ description: Rising actuary and data scientist
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - My Projects: "https:/www.github.com/daawinpa"
+    - My Projects: "https://www.github.com/daawinpa/"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Learn R Shiny: "https://www.rstudio.com/products/shinyapps/"
