@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Moving from R to Python
+image: 
+- "/img/Software/python.png"
+- "/img/Software/RstudioImage.png"
 tags: [moving , r, python]
 ---
 
