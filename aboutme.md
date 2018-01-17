@@ -57,21 +57,21 @@ I have multiple experience and expert knowledge in
 * JMP  * SPSS  * Tableau  * MS Power BI  * Spotfire
 * Micro-strategy  * Google Analytics   * Piktochart 
 
-![Python](/img/Software/python.png){:height="10%" width="10%"}
-![R](/img/Software/RstudioImage.png){:height="10%" width="10%"}
-![SAS](/img/Software/SAS.png){:height="10%" width="10%"}
-![JMP](/img/Software/jmp.png){:height="10%" width="10%"}
+![Python](/img/Software/python.png)<!-- .element height="10%" width="10%" -->
+![R](/img/Software/RstudioImage.png)<!-- .element height="10%" width="10%" -->
+![SAS](/img/Software/SAS.png)<!-- .element height="10%" width="10%" -->
+![JMP](/img/Software/jmp.png)<!-- .element height="10%" width="10%" -->
 
-![Shiny](/img/Software/shinylogo.png){:height="10%" width="10%"}
-![Plotly](/img/Software/Plotly-logo.png){:height="10%" width="10%"}
-![VBA](/img/Software/Excel-VBA.png){:height="10%" width="10%"}
-![Google](/img/Software/google-analytics.png){:height="10%" width="10%"}
+![Shiny](/img/Software/shinylogo.png)<!-- .element height="10%" width="10%" -->
+![Plotly](/img/Software/Plotly-logo.png)<!-- .element height="10%" width="10%" -->
+![VBA](/img/Software/Excel-VBA.png)<!-- .element height="10%" width="10%" -->
+![Google](/img/Software/google-analytics.png)<!-- .element height="10%" width="10%" -->
 
-![Emblem](/img/Software/emblem.png){:height="10%" width="10%"}
-![Latex](img/Software/latex.png){:height="10%" width="10%"}
-![Tableau](/img/Software/tableau.png){:height="10%" width="10%"}
-![PowerBI](/img/Software/PowerBI.png){:height="10%" width="10%"}
+![Emblem](/img/Software/emblem.png)<!-- .element height="10%" width="10%" -->
+![Latex](img/Software/latex.png)<!-- .element height="10%" width="10%" -->
+![Tableau](/img/Software/tableau.png)<!-- .element height="10%" width="10%" -->
+![PowerBI](/img/Software/PowerBI.png)<!-- .element height="10%" width="10%" -->
 
-![Microstrategy](/img/Software/microstrategy.png){:height="10%" width="10%"}
+![Microstrategy](/img/Software/microstrategy.png)<!-- .element height="10%" width="10%" -->
 ![Tableau](/img/Software/piktochart.png){:height="10%" width="10%"}
  
