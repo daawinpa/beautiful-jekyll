@@ -25,7 +25,7 @@ bigimg:
 ---
 
 
-# EDUCATION
+# Education
 
  I had my education in Ghana , West Africa . I completed an undergraduate degree in  Actuarial Science at the 
  Kwame Nkrumah University of Science and Technology,(2009 - 2013) . I moved to the US after 2 years to pursue 
@@ -34,7 +34,7 @@ Association of Chartered Certified Accountants, ACCA (United Kingdom),and curren
 Society of Actuaries/Casualty Actuarial Society.
 
 
-# CAREER HISTORY
+# Career History
 
 I have worked in many different industries . I started of my career after school in external audit and accounting with 
 UHY International and  Kufuor & Associates, both in  Accra, Ghana. 
@@ -42,7 +42,7 @@ During my masters program ,I worked as a Graduate Teaching Assistant at  Miami U
 after a year to work with Procter & Gamble ,Biotechnology Department as a Statistics Contractor
 I did an internship with  American Modern Insurance Group (Munich Re) where I worked with the actuarial reserving department.
 
-# KEY SOFTWARES
+# Key Skills
 
 I have multiple experience and expert knowledge in 
 * MS Excel VBA  
