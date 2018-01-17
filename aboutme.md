@@ -57,21 +57,21 @@ I have multiple experience and expert knowledge in
 * JMP  * SPSS  * Tableau  * MS Power BI  * Spotfire
 * Micro-strategy  * Google Analytics   * Piktochart 
 
-![Python](/img/Software/python.png){width=80px}
-![R](/img/Software/RstudioImage.png){width=80px}
-![SAS](/img/Software/SAS.png){width=80px}
-![JMP](/img/Software/jmp.png){width=80px}
+![Python](/img/Software/python.png){ width=10% }
+![R](/img/Software/RstudioImage.png){ width=10% }
+![SAS](/img/Software/SAS.png){ width=10% }
+![JMP](/img/Software/jmp.png){ width=10% }
 
-![Shiny](/img/Software/shinylogo.png){width=80px}
-![Plotly](/img/Software/Plotly-logo.png){width=80px}
-![VBA](/img/Software/Excel-VBA.png){width=80px}
-![Google](/img/Software/google-analytics.png){width=80px}
+![Shiny](/img/Software/shinylogo.png){ width=10% }
+![Plotly](/img/Software/Plotly-logo.png){ width=10% }
+![VBA](/img/Software/Excel-VBA.png){ width=10% }
+![Google](/img/Software/google-analytics.png){ width=10% }
 
-![Emblem](/img/Software/emblem.png){width=80px}
-![Latex](img/Software/latex.png){width=80px}
-![Tableau](/img/Software/tableau.png){width=80px}
-![PowerBI](/img/Software/PowerBI.png){width=80px}
+![Emblem](/img/Software/emblem.png){ width=10% }
+![Latex](img/Software/latex.png){ width=10% }
+![Tableau](/img/Software/tableau.png){ width=10% }
+![PowerBI](/img/Software/PowerBI.png){ width=10% }
 
-![Microstrategy](/img/Software/microstrategy.png){width=80px}
-![Tableau](/img/Software/piktochart.png){width=80px}
+![Microstrategy](/img/Software/microstrategy.png){ width=10% }
+![Tableau](/img/Software/piktochart.png){ width=10% }
  
