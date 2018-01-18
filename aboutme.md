@@ -57,7 +57,8 @@ I have multiple experience and expert knowledge in
 * JMP  * SPSS  * Tableau  * MS Power BI  * Spotfire
 * Micro-strategy  * Google Analytics   * Piktochart 
 
-![Python](/img/Software/python.png)<!-- .element height="0%" width="0%" -->
+'![Python]()<!-- .element height="0%" width="0%" -->
+<img src="/img/Software/python.png" width="20">
 ![R](/img/Software/RstudioImage.png)<!-- .element height="0%" width="0%" -->
 ![JMP](/img/Software/jmp.png)<!-- .element height="0%" width="0%" -->
 
