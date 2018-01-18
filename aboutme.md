@@ -57,23 +57,22 @@ I have multiple experience and expert knowledge in
 * JMP  * SPSS  * Tableau  * MS Power BI  * Spotfire
 * Micro-strategy  * Google Analytics   * Piktochart 
 
-'![Python]()<!-- .element height="0%" width="0%" -->
-<img src="/img/Software/python.png" width="20">
-![R](/img/Software/RstudioImage.png)<!-- .element height="0%" width="0%" -->
-![JMP](/img/Software/jmp.png)<!-- .element height="0%" width="0%" -->
 
-![Shiny](/img/Software/shinylogo.png)<!-- .element height="0%" width="0%" -->
-![Plotly](/img/Software/Plotly-logo.png)<!-- .element height="0%" width="0%" -->
-![VBA](/img/Software/Excel-VBA.png)<!-- .element height="0%" width="0%" -->
+<img src="/img/Software/python.png" width="100">
+<img src="/img/Software/RstudioImage.png" width="100">
+<img src="/img/Software/jmp.png" width="100">
+<img src="/img/Software/shinylogo.png" width="100">
 
-![SAS](/img/Software/SAS.png)<!-- .element height="0%" width="0%" -->
-![Google](/img/Software/google-analytics.png)<!-- .element height="0%" width="0%" -->
-![Emblem](/img/Software/emblem.png)<!-- .element height="0%" width="0%" -->
+<img src="/img/Software/Plotly-logo.png" width="100">
+<img src="/img/Software/Excel-VBA.png" width="100">
+<img src="/img/Software/SAS.png" width="100">
+<img src="/img/Software/google-analytics.png" width="100">
 
-![Latex](img/Software/latex.png)<!-- .element height="0%" width="0%" -->
-![Tableau](/img/Software/tableau.png)<!-- .element height="0%" width="0%" -->
+<img src="/img/Software/emblem.png" width="100">
+<img src="img/Software/latex.png" width="100">
+<img src="/img/Software/tableau.png" width="100">
+<img src="/img/Software/PowerBI.png" width="100">
 
-![PowerBI](/img/Software/PowerBI.png)<!-- .element height="0%" width="0%" -->
-![Microstrategy](/img/Software/microstrategy.png)<!-- .element height="0%" width="0%" -->
-![Tableau](/img/Software/piktochart.png)<!-- .element height="0%" width="0%" -->
- 
+<img src="/img/Software/microstrategy.png" width="100">
+<img src="/img/Software/piktochart.png" width="100">
+
