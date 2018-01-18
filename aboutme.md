@@ -58,13 +58,7 @@ I have multiple experience and expert knowledge in
 * Micro-strategy  * Google Analytics   * Piktochart 
 
 
-<img src="/img/Software/python.png" width="100"> <img src="/img/Software/RstudioImage.png" width="100"> <img src="/img/Software/jmp.png" width="100">
+<img src="/img/Software/python.png" width="70"> <img src="/img/Software/RstudioImage.png" width="70"><img src="/img/Software/jmp.png" width="70"><img src="/img/Software/shinylogo.png" width="70"><img src="/img/Software/Plotly-logo.png" width="70"><img src="/img/Software/Excel-VBA.png" width="70">
 
-<img src="/img/Software/shinylogo.png" width="100"><img src="/img/Software/Plotly-logo.png" width="100"><img src="/img/Software/Excel-VBA.png" width="100">
-
-<img src="/img/Software/SAS.png" width="100"><img src="/img/Software/google-analytics.png" width="100"><img src="/img/Software/emblem.png" width="100">
-
-<img src="img/Software/latex.png" width="100"><img src="/img/Software/tableau.png" width="100"><img src="/img/Software/PowerBI.png" width="100">
-
-<img src="/img/Software/microstrategy.png" width="100"><img src="/img/Software/piktochart.png" width="100">
+<img src="/img/Software/SAS.png" width="70"><img src="/img/Software/google-analytics.png" width="70"><img src="/img/Software/emblem.png" width="70"><img src="img/Software/latex.png" width="70"><img src="/img/Software/tableau.png" width="70"><img src="/img/Software/PowerBI.png" width="70"><img src="/img/Software/microstrategy.png" width="70"><img src="/img/Software/piktochart.png" width="70">
 
