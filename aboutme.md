@@ -57,22 +57,22 @@ I have multiple experience and expert knowledge in
 * JMP  * SPSS  * Tableau  * MS Power BI  * Spotfire
 * Micro-strategy  * Google Analytics   * Piktochart 
 
-![Python](/img/Software/python.png)<!-- .element height="5%" width="5%" -->
-![R](/img/Software/RstudioImage.png)<!-- .element height="5%" width="5%" -->
-![JMP](/img/Software/jmp.png)<!-- .element height="5%" width="5%" -->
+![Python](/img/Software/python.png)<!-- .element height="0%" width="0%" -->
+![R](/img/Software/RstudioImage.png)<!-- .element height="0%" width="0%" -->
+![JMP](/img/Software/jmp.png)<!-- .element height="0%" width="0%" -->
 
-![Shiny](/img/Software/shinylogo.png)<!-- .element height="5%" width="5%" -->
-![Plotly](/img/Software/Plotly-logo.png)<!-- .element height="5%" width="5%" -->
-![VBA](/img/Software/Excel-VBA.png)<!-- .element height="5%" width="5%" -->
+![Shiny](/img/Software/shinylogo.png)<!-- .element height="0%" width="0%" -->
+![Plotly](/img/Software/Plotly-logo.png)<!-- .element height="0%" width="0%" -->
+![VBA](/img/Software/Excel-VBA.png)<!-- .element height="0%" width="0%" -->
 
-![SAS](/img/Software/SAS.png)<!-- .element height="5%" width="5%" -->
-![Google](/img/Software/google-analytics.png)<!-- .element height="5%" width="5%" -->
-![Emblem](/img/Software/emblem.png)<!-- .element height="5%" width="5%" -->
+![SAS](/img/Software/SAS.png)<!-- .element height="0%" width="0%" -->
+![Google](/img/Software/google-analytics.png)<!-- .element height="0%" width="0%" -->
+![Emblem](/img/Software/emblem.png)<!-- .element height="0%" width="0%" -->
 
-![Latex](img/Software/latex.png)<!-- .element height="5%" width="5%" -->
-![Tableau](/img/Software/tableau.png)<!-- .element height="5%" width="5%" -->
+![Latex](img/Software/latex.png)<!-- .element height="0%" width="0%" -->
+![Tableau](/img/Software/tableau.png)<!-- .element height="0%" width="0%" -->
 
-![PowerBI](/img/Software/PowerBI.png)<!-- .element height="5%" width="5%" -->
-![Microstrategy](/img/Software/microstrategy.png)<!-- .element height="5%" width="5%" -->
-![Tableau](/img/Software/piktochart.png)<!-- .element height="5%" width="5%" -->
+![PowerBI](/img/Software/PowerBI.png)<!-- .element height="0%" width="0%" -->
+![Microstrategy](/img/Software/microstrategy.png)<!-- .element height="0%" width="0%" -->
+![Tableau](/img/Software/piktochart.png)<!-- .element height="0%" width="0%" -->
  
