@@ -1,6 +1,6 @@
 ---
 layout: post
-title: scikit-learn : Machine Learning in Python!
+title: scikit-learn,Machine Learning in Python!
 image: /img/Software/python.png
 ---
 
