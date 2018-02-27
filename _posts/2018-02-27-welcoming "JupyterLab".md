@@ -2,7 +2,7 @@
 layout: post
 title: Welcoming "JupyterLab" !
 subtitle: Web-based user interface for Project Jupyter
-bigimg: /img/CapturePay.png
+bigimg: /img/CapturePay.PNG
 ---
 JupyterLab is the next-generation web-based user interface for Project Jupyter.
 Jupyter is a studio user interface with python as the back end program.
