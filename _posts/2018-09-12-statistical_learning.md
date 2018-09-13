@@ -1,3 +1,4 @@
+---
 layout: post
 title: Statistical Learning
 subtitle: A practical intro course
